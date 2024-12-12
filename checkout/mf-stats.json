@@ -99,11 +99,11 @@
         }
       },
       "usedIn": [
-        "./Thanks",
         "./AddToCart",
         "./CartPage",
         "./Checkout",
-        "./MiniCart"
+        "./MiniCart",
+        "./Thanks"
       ]
     }
   ],
